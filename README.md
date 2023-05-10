@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Sai+Akhil;Check+my+profile+and+contact+me+if+you+it+interesting)](https://github.com/matsy/)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Sai+Akhil;Check+my+profile+out+!!;Contact+me+if+you+find+it+interesting)](https://github.com/matsy/)
 
 - 💬 Check my blogs ...
 - 😄 Pronouns: He/Him
